@@ -3,7 +3,7 @@
 
 This project uses jasmine to test the functionality of a feed reader website. 
 
-### Instructions
+### Instructions And how to open 
 To view the feedreader website click on link below.
 * https://osamaalfaify.github.io/frontend-nanodegree-feedreader/.
 
